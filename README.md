@@ -1,4 +1,4 @@
-
+[![Build Status](https://kerriop.visualstudio.com/BloodTournament/_apis/build/status/kerriop.pipelines-java?branchName=master)](https://kerriop.visualstudio.com/BloodTournament/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
